@@ -1,0 +1,9 @@
+{
+  "schema_version": "21.0",
+  "generated_at": null,
+  "record_count": 0,
+  "records": [],
+  "sources": {},
+  "errors": [],
+  "policy": "Only source-returned records with HTTP(S) URLs are imported. No synthetic scholarship records are generated."
+}
